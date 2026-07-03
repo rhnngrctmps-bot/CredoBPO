@@ -21,7 +21,7 @@
 			<div class="hero__actions">
 				<button type="button" class="btn btn-primary js-open-calculator">
 					<?php echo credobpo_icon( 'calculator' ); ?>
-					<?php esc_html_e( 'Calculate Your Savings', 'credobpo' ); ?>
+					<?php esc_html_e( 'Calculate Your Savings Now', 'credobpo' ); ?>
 				</button>
 				<a href="<?php echo esc_url( home_url( '/contact-us/' ) ); ?>" class="btn btn-outline">
 					<?php esc_html_e( 'Get a Free Quote', 'credobpo' ); ?>
