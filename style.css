@@ -16,8 +16,7 @@ Text Domain: credobpo
    1. Custom properties
    ========================================================================== */
 :root {
-	/* --color-primary: #004ea8; */
-	--color-primary: #ff004c;
+	--color-primary: #004ea8;
 	--color-primary-dark: #003872;
 	--color-primary-light: #e8f1fb;
 	--color-accent: #f7a600;
