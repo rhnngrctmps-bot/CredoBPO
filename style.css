@@ -178,7 +178,8 @@ input, textarea, select { font-family: inherit; font-size: 1rem; }
 .header-actions { display: flex; align-items: center; gap: 12px; }
 .header-actions .btn { padding: 11px 22px; }
 .btn-calc-trigger {
-	background: var(--color-primary);
+	/* background: var(--color-primary); */
+	background: #ff5c00;
 	color: var(--color-white);
 }
 .btn-calc-trigger:hover { background: var(--color-primary-dark); color: var(--color-white); }
